@@ -10,3 +10,15 @@ But not at all impossible, the games created under Unity OR Unreal Engine have n
 # Unity version : Unity 2019.3.0f or Unity 2017.3.0f3
 
 Projects manual https://github.com/users/Maxime66410/projects/1
+
+
+------------
+# Crash Unity
+Assets/PrefabInstances : Envprp_Ssnl_HW_002.prefab
+Assets/PrefabInstances : Envprp_Ssnl_HW_008.prefab
+Assets/PrefabInstances : Envprp_Ssnl_HW_009.prefab
+Assets/PrefabInstances : Envprp_Ssnl_HW_011.prefab
+Assets/PrefabInstances : Envprp_Ssnl_HW_014.prefab
+Assets/Scene/Scene : Facility.unity
+Assets/Mesh : HCZButton.asset
+Assets/Mesh : LightningStrike.asset
