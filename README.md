@@ -22,3 +22,7 @@ Assets/PrefabInstances : Envprp_Ssnl_HW_014.prefab
 Assets/Scene/Scene : Facility.unity
 Assets/Mesh : HCZButton.asset
 Assets/Mesh : LightningStrike.asset
+
+# Fix resources Shaders
+Please create a file under the name of "uber.shader" and place it in "Assets\Resources\shaders"
+Link : 
