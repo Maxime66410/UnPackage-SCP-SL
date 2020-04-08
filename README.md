@@ -24,5 +24,5 @@ Assets/Mesh : HCZButton.asset
 Assets/Mesh : LightningStrike.asset
 
 # Fix resources Shaders
-Please create a file under the name of "uber.shader" and place it in "Assets\Resources\shaders"
-Link : 
+Please create a file under the name of "uber.shader" and place it in "Assets\Resources\shaders" or download this files
+Link : https://mega.nz/file/EVs1BCQA#GK73vBaB8RJLlJGENSV5kaSy3gGdTEzQSu8lI0hboNk
